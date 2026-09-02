@@ -27,4 +27,4 @@ brew install --HEAD fxrdhan/tap/lez
 
 | Formula | Description |
 |---|---|
-| [`lez`](Formula/lez.rb) | A modern, fast, and feature-rich replacement for `ls` written in Rust |
+| [`lez`](Formula/lez.rb) | An alternative for 'ls' written in Rust. |
